@@ -22,3 +22,5 @@ Bom, esse projeto é um arquétipo de blog para uma modelo fictícia expor seu t
 
 
 **Status:** ✅Completo
+<br>
+[Clique para ver o projeto](https://mariameir.github.io/blog-anna-bella/)
